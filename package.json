@@ -1,11 +1,11 @@
 {
   "name": "Ashish-Blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A starter for documenting work",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Ashish Ranjan <ashish135ranjan@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/ashish-ranjan-dev/ashish-blog/issues"
   },
   "dependencies": {
     "gatsby": "^3.13.1",
@@ -34,13 +34,13 @@
   "devDependencies": {
     "prettier": "2.4.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://ashish-blogs.netlify.app/",
   "keywords": ["gatsby"],
   "license": "0BSD",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/ashish-ranjan-dev/ashish-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
