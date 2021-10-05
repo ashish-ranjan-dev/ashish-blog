@@ -8,7 +8,7 @@ module.exports = {
     description: `A blog demonstrating hands on work`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`
+      twitter: `https://twitter.com/ashish135ranjan`
     }
   },
   plugins: [
